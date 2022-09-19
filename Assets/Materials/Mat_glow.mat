@@ -102,7 +102,9 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _Glow_speed: 1
+    - _Glow_Power: 4.29
+    - _Glow_Speed: 1
+    - _Glow_speed: 8
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
